@@ -6,9 +6,9 @@ The csv contains data about ~250 US cities, states and population recorded over 
 
 **Data Formatting using Python Script**:  
 - The script will merge the “Place” and “State” columns into 1 column with the title “State-City”.
-- We transpose data about years from the header row to 1 column called “Year”.
-- We also transpose the data about population from the content rows to 1 column titled “Population”.
-- We add a new column called “Rank-Population” to rank the cities according to the population.
+- Transpose data about years from the header row to 1 column called “Year”.
+- Transpose the data about population from the content rows to 1 column titled “Population”.
+- Add a new column called “Rank-Population” to rank the cities according to the population.
 The script (cities_script.py) is available for download.  
 
 **Visualization using MS Power BI**:  
